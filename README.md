@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **React, Api**
+- 💬 Ask me about **REACT, API,DSA,NODE**
 
 - 📫 How to reach me **sachinkumary826@gmail.com**
 
